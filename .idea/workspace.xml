@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0370bb8-aea6-4dab-9201-cbc071b585fa" name="Default Changelist" comment="add case two">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Singleton01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Singleton02.class" afterDir="false" />
+    <list default="true" id="a0370bb8-aea6-4dab-9201-cbc071b585fa" name="Default Changelist" comment="add test111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/Singleton02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Singleton02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587476363461</updated>
       <workItem from="1587476367381" duration="4126000" />
-      <workItem from="1587558953890" duration="406000" />
+      <workItem from="1587558953890" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1587476774781</created>
@@ -181,7 +180,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587559032634</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add case three">
+      <created>1587559382970</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587559382970</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add test">
+      <created>1587560080637</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587560080637</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add test111">
+      <created>1587560249187</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587560249187</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,9 +220,47 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -216,16 +274,27 @@
     <MESSAGE value="five commit" />
     <MESSAGE value="add one case" />
     <MESSAGE value="add case two" />
-    <option name="LAST_COMMIT_MESSAGE" value="add case two" />
+    <MESSAGE value="add case three" />
+    <MESSAGE value="add test" />
+    <MESSAGE value="add test111" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2965" y="500" key="#Notifications" timestamp="1587559176220">
       <screen x="1920" y="0" width="2318" height="1273" />
     </state>
     <state x="2965" y="500" key="#Notifications/0.0.1739.947/1920.0.2318.1273@1920.0.2318.1273" timestamp="1587559176220" />
-    <state x="2672" y="357" key="Vcs.Push.Dialog.v2" timestamp="1587559158390">
+    <state x="2672" y="357" key="Vcs.Push.Dialog.v2" timestamp="1587560254388">
       <screen x="1920" y="0" width="2318" height="1273" />
     </state>
-    <state x="2672" y="357" key="Vcs.Push.Dialog.v2/0.0.1739.947/1920.0.2318.1273@1920.0.2318.1273" timestamp="1587559158390" />
+    <state x="2672" y="357" key="Vcs.Push.Dialog.v2/0.0.1739.947/1920.0.2318.1273@1920.0.2318.1273" timestamp="1587560254388" />
+    <state x="2783" y="426" key="git4idea.merge.GitPullDialog" timestamp="1587560377929">
+      <screen x="1920" y="0" width="2318" height="1273" />
+    </state>
+    <state x="2783" y="426" key="git4idea.merge.GitPullDialog/0.0.1739.947/1920.0.2318.1273@1920.0.2318.1273" timestamp="1587560377929" />
+    <state x="2852" y="499" key="git4idea.rebase.GitRebaseDialog" timestamp="1587559660938">
+      <screen x="1920" y="0" width="2318" height="1273" />
+    </state>
+    <state x="2852" y="499" key="git4idea.rebase.GitRebaseDialog/0.0.1739.947/1920.0.2318.1273@1920.0.2318.1273" timestamp="1587559660938" />
   </component>
 </project>
